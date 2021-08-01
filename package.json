@@ -1,0 +1,25 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaziburr/gaziburr-terminal-notes-application.git"
+  },
+  "keywords": [],
+  "author": "Gazibur Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaziburr/gaziburr-terminal-notes-application/issues"
+  },
+  "homepage": "https://github.com/gaziburr/gaziburr-terminal-notes-application#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs": "0.0.1-security",
+    "yargs": "^17.0.1"
+  }
+}
